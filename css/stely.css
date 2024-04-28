@@ -1,0 +1,37 @@
+#button
+.h3,h3 {
+    margin: 23px;
+    font-size: 4.75rem;
+    padding: 10px;
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    color:brown;
+}
+.mmm{
+    margin: 23px;
+    font-size: 4.75rem;
+    padding: 10px;
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    color:brown;
+}
+.text-center {
+    text-align: center !important;
+    font-size: 35px;
+    font-family: ui-sans-serif;
+    background: beige;
+    letter-spacing: 2px;
+
+
+}
+.mohamed{
+    text-align: center !important;
+    font-size: 35px;
+    font-family: ui-sans-serif;
+    background: beige;
+    letter-spacing: 2px;
+    
+}
+
